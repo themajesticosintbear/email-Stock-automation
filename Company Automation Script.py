@@ -8,6 +8,7 @@ from email.mime.text import MIMEText
 
 COMPANY_NAME = "DeliBear Company"
 CONTACT_EMAIL = "contact@delibearcompany.eu"
+Company_site = "https://delibearcompany.wordpress.com/"
 
 def log_activity(message):
     """Logs an activity with a timestamp."""
